@@ -2,7 +2,7 @@
 Vendor Management System Project - Short Explanation
 The project involved developing a Vendor Management System (VMS) to streamline vendor-related processes such as onboarding, evaluation, contract management, and payment tracking. The goal was to enhance efficiency, transparency, and compliance while maintaining good vendor relationships.
 
-Challenges Faced
+# Challenges Faced
 
 Data Consolidation: Vendor data was scattered across multiple platforms, making it difficult to track and analyze.
 
@@ -12,7 +12,7 @@ User Resistance: Employees were hesitant to adopt the new system due to a lack o
 
 Integration Issues: Difficulty in integrating the VMS with legacy systems such as ERP and financial tools.
 
-Actions Taken
+# Actions Taken
 Centralized Database: Consolidated vendor data into a unified system with proper categorization and search functionality.
 
 Automated Workflows: Designed workflows for vendor onboarding and approvals using clear roles and timelines, reducing manual interventions.
@@ -21,7 +21,7 @@ Training Programs: Conducted training sessions and provided user manuals to ensu
 
 System Integration: Worked with IT teams to ensure seamless integration with existing ERP and accounting systems.
 
-Measurable Results or Impact
+# Measurable Results or Impact
 Improved Efficiency: Reduced vendor onboarding time by 40% due to streamlined workflows.
 
 Better Compliance: Achieved 100% compliance with regulatory requirements by automating documentation and audit trails.
