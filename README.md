@@ -5,8 +5,11 @@ The project involved developing a Vendor Management System (VMS) to streamline v
 Challenges Faced
 
 Data Consolidation: Vendor data was scattered across multiple platforms, making it difficult to track and analyze.
+
 Complex Approval Workflows: Existing manual processes were inconsistent and delayed decision-making.
+
 User Resistance: Employees were hesitant to adopt the new system due to a lack of training and familiarity.
+
 Integration Issues: Difficulty in integrating the VMS with legacy systems such as ERP and financial tools.
 
 Actions Taken
